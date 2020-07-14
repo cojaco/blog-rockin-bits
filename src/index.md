@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Start the Page
-metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
-  own blog or personal website.
-postsHeading: Latest posts
-archiveButtonText: See all posts
+title: Nico Jacobs
+metaTitle: Nico Jacobs Frontend Entwickler
+metaDesc: Nico Jacobs Frontend Entwickler aus Berlin
+postsHeading: Neueste Blog Artikel
+archiveButtonText: Alle Blog Artikel
 socialImage: ""
 ---
-All right lets get it started
+Frontend Entwickler aus Berlin
